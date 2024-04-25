@@ -9,7 +9,5 @@ import Foundation
 
 enum ConstansString {
     static let CalculatorTitle = "0"
-    // add new func
-    // edit
-    // edit 
+    // delet func 
 }
